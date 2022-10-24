@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning front-end related technologies (HTML,CSS, JS, REACT)
 
-- 🔭 I’m currently working at [meutudo](https://www.linkedin.com/company/meutudoapp/)
+- 🔭 I’m currently working at [meutudo.](https://www.linkedin.com/company/meutudoapp/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS**
 
 
 <!--
