@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marvin Rocha</h1>
+
+- 🌱 I’m currently learning front-end related technologies (HTML,CSS, JS, REACT)
+
+- 🔭 I’m currently working at [meutudo](https://www.linkedin.com/company/meutudoapp/)
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+
 
 <!--
 **mrvnrcha/mrvnrcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
