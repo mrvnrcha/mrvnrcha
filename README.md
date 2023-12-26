@@ -4,9 +4,6 @@
 
 - 🔭 I’m currently working at [meutudo.](https://www.linkedin.com/company/meutudoapp/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
-
-
 <!--
 **mrvnrcha/mrvnrcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
