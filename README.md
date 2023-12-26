@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marvin Rocha</h1>
 
-- 🌱 I’m currently learning front-end related technologies (HTML,CSS, JS, REACT)
+- 🌱 I’m currently learning front-end and back-end related technologies (JS, TAILWIND, REACT, NODE & JAVA)
 
 - 🔭 I’m currently working at [meutudo.](https://www.linkedin.com/company/meutudoapp/)
 
